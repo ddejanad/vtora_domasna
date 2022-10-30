@@ -1,0 +1,112 @@
+h1{
+    margin: 1em;
+    color: hwb(0 59% 41% / 0.906);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(203, 249, 234);
+    font-weight: 500;
+    font-weight: bold;
+}
+
+hr{
+    color: blue;
+    
+    
+
+}
+p{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: darkcyan;
+   font-size: medium;
+   border: 10cm;
+   box-sizing: initial;
+   position: sticky;
+   font-style: oblique;
+   
+}
+
+body
+{
+    background-color: rgb(185, 247, 236);
+}
+
+legend
+{
+    color: rgb(4, 173, 123);
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    font-style: oblique;
+    font-size: 150%;
+
+}
+
+.kocka {
+    margin: auto;
+    box-sizing: border-box;
+    font-size: larger;
+    background-color: rgb(140, 240, 210);
+    color: lightslategrey;
+
+}
+
+.meni {
+    margin: 1em;
+    box-shadow: inset;
+    box-sizing: initial;
+    border: 1em;
+    border-style: double;
+    border-color: rgb(69, 71, 70);
+    color: darkslategray;
+
+}
+.meni2 {
+    margin: 1em;
+    box-shadow:inset;
+    box-sizing:content-box;
+    border: 1em;
+    border-style: double;
+    border-color: rgb(87, 108, 101);
+    color: darkslategrey;
+
+}
+.meni3 {
+    margin: 1em;
+    border: 1em;
+    border-style: double;
+    border-color: rgb(81, 207, 159);
+    color: darkslategray;
+
+}
+
+
+.naslov
+{
+    box-sizing: border-box;
+    border-color: aqua;
+    box-shadow: inset;
+    border: 10em;
+    border-radius: 10%;
+    border-style: ridge;
+    display: block;
+   
+}
+
+.naslov:hover{
+    background-color: rgb(151, 158, 158);
+    color: rgb(192, 209, 243);
+}
+
+.snack
+{
+    border-color: rgb(80, 237, 169);
+    margin: 1em;
+    box-sizing: content-box;
+    border: 1em;
+    border-style: groove;
+    border-color: rgb(130, 132, 130);
+}
+
+.place
+{
+    background-color: rgb(185, 247, 236);
+    
+}
